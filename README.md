@@ -1,91 +1,97 @@
-# ✨ Sharjil Khan - Digital Portfolio ✨
+# ✨ SHARJIL KHAN - Digital Portfolio ✨
 
 This is a dynamic and visually rich personal portfolio website for Sharjil Khan, a Full Stack Developer & IT Specialist 🚀. It showcases his skills, professional experience, signature projects, and educational background, all presented with a unique, thematic design inspired by epic sagas.
 
-## 🌟 Key Features
+---
 
-*   **📜 Comprehensive Sections:** Includes dedicated sections for:
-    *   웅 Hero Introduction
-    *   📝 Professional Summary
-    *   💼 Work Experience
-    *   💡 Signature Projects (with details and links)
-    *   🛠️ Technical Skills (categorized)
-    *   🎓 Education & Credentials
-    *   📞 Contact Information
-*   **🖱️ Interactive UI:**
-    *   Smooth scrolling navigation.
-    *   Scroll-to-top button.
-    *   📱 Responsive design for various screen sizes.
-    *   ✨ Engaging hover effects and animations.
-*   **🎨 Thematic Styling:**
-    *   🖌️ "God of War: Ragnarök" inspired hand-painted text effects.
-    *   🌌 Space and galaxy-themed animated background with constellations and nebulas.
-    *   🪵 Custom-styled "broken wooden plank" buttons.
-    *   🛡️ Themed icons and section dividers.
-*   **🔄 Dynamic Content:**
-    *   Project data and personal information are managed within the React components.
-    *   📄 Separate "Projects Page" view.
+## 📝 Professional Summary
 
-## 🛠️ Technologies Used
+Customer Support and Full Stack Development professional with experience in front-end and back-end system development, project management, and technical troubleshooting. Proven ability to enhance user experiences, solve problems, and deliver high-quality service. Proficient in CRM systems, ELD device support, and software optimization. Seeking to leverage technical and customer-focused skills to contribute to business success.
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+---
 
-*   **Frontend:** React, TypeScript
-*   **Styling:** Tailwind CSS (configured via `tailwind.config.js` within `index.html` script tag), custom CSS for animations and advanced styling.
-*   **Build Tool:** Vite
-*   **Icons & Graphics:** Inline SVG components and CSS-generated effects.
-*   **Version Control:** Git & GitHub
+## 💼 Professional Experience
 
-## 🚀 Getting Started
+*   **Freelance Software Development** | Oct 2024 - Present
+*   **NCT Enterprises (Kolkata)** | IT Manager / Office Admin | Jan 2024 – Sept 2024
+    *   Managed IT infrastructure and administrative functions to ensure operational efficiency.
+    *   Oversaw daily workflows, implementing strategies for improved productivity.
+    *   Provided technical support and troubleshooting for in-house hardware and software systems.
+*   **Startek Inc (Bangalore) - WFH** | Customer Support Representative | May 2022 – June 2023
+    *   Provided customer support for Flipkart, addressing order inquiries, returns, and logistics issues.
+    *   Managed high volumes of customer interactions while maintaining excellent satisfaction ratings.
+    *   Contributed feedback to improve service processes and efficiency.
+*   **Smart Call Center Solutions Pvt Ltd** | Customer Support Representative | March 2021 – March 2022
+    *   Delivered technical support for US-based customers using Electronic Logging Devices (ELD).
+    *   Managed customer accounts, ensuring accurate device reporting and compliance with regulations.
+    *   Efficiently resolved technical issues related to ELD devices.
+*   **Amazon India - WFH** | Customer Support Associate (Fixed-Term) | June 2020 – Dec 2020
+    *   Addressed customer inquiries regarding orders, shipping, and returns, ensuring timely resolution.
+    *   Handled and resolved customer escalations to maintain satisfaction.
+*   **Red Rock Web Development** | Technology Lead | May 2014 – March 2020
+    *   Led front-end and back-end web development projects, ensuring timely and quality delivery.
+    *   Optimized website performance to improve user experience and site speed.
+    *   Managed project timelines, resources, and team deliverables.
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+---
 
-### Prerequisites
+## 🎓 Education
 
-*   Node.js and npm (or yarn) installed on your system.
+*   **Vinoba Bhave University** | B.Com Honors | 2014
 
-### Installation
+---
 
-1.  Clone the repository (if applicable, otherwise ensure project files are present):
-    ```bash
-    git clone <repository-url>
-    cd <project-directory>
-    ```
-2.  📦 Install NPM packages:
-    ```bash
-    npm install
-    ```
-    (or `yarn install`)
+## 🛠️ Skills
 
-### 🏃 Running the Project
+### 💻 Technical Skills
+*   Full Stack Development (MERN Stack: MongoDB, Express.js, React, Node.js)
+*   Web Development (HTML, CSS, JavaScript, Bootstrap)
+*   Cloud Services (AWS, Firebase)
+*   IT Troubleshooting, Network Troubleshooting
+*   CRM Software, Support Tools
 
-To start the development server and view the portfolio in your browser:
+### 🔒 Cybersecurity Skills
+*   Server Security
+*   Intrusion Detection
+*   Malware Analysis
+*   etc
 
-```bash
-npm run dev
-```
-(or `yarn dev`)
+### 🤝 Customer Service Skills
+*   Customer Support, Customer Service Excellence, Technical Support
+*   Problem Solving, CRM, Helpdesk Software (Salesforce, Zendesk, Freshdesk)
+*   ELD Support, Compliance, Conflict Resolution
+*   Call Center Operations, Time Management, Multitasking
 
-This will typically open the project at `http://localhost:5173` (or another port if 5173 is in use).
+### 🗣️ Languages
+*   English (Fluent)
+*   Hindi (Fluent)
+*   Bengali (Fluent)
+
+---
 
 ## 🤔 Why Hire Me?
 
-As a versatile Full Stack Developer and IT Specialist, I bring a unique blend of technical expertise, creative problem-solving, and a strong customer-focused approach.
+As a Customer Support and Full Stack Development professional, I bring a unique blend of technical expertise, project management, and a strong customer-focused approach.
 
-*   **💡 Innovative Solutions:** Proven ability to design, develop, and maintain robust web applications that meet diverse client needs.
-*   **💪 Full-Stack Proficiency:** Extensive experience with the MERN stack (MongoDB, Express.js, React, Node.js), HTML5, CSS3, JavaScript, and modern styling frameworks like Tailwind CSS.
-*   **🔧 Technical Acumen:** Skilled in IT infrastructure management, CRM systems (Salesforce, Zendesk, Freshdesk), ELD support, software optimization, and troubleshooting complex technical issues.
-*   **🤝 Collaborative Spirit:** Adept at managing projects from conception to deployment, collaborating effectively with clients and teams to translate requirements into scalable applications.
-*   **📈 Results-Oriented:** Focused on enhancing user experiences, improving productivity, and driving business success through technology.
-*   **📞 Exceptional Support:** Background in high-volume customer support and technical assistance, ensuring excellent satisfaction and effective resolutions.
-*   **🌍 Adaptable & Eager:** Quick learner, passionate about leveraging new technologies and methodologies to contribute to a dynamic organization.
+*   **💡 Innovative Solutions:** Proven ability to enhance user experiences, solve problems, and deliver high-quality service through front-end and back-end system development.
+*   **💪 Full-Stack Proficiency:** Extensive experience with the MERN stack (MongoDB, Express.js, React, Node.js), Web Development (HTML, CSS, JavaScript, Bootstrap), and Cloud Services (AWS, Firebase).
+*   **🔧 Technical Acumen:** Proficient in IT Troubleshooting, Network Troubleshooting, **Server Security, Intrusion Detection, Malware Analysis**, CRM Software (Salesforce, Zendesk, Freshdesk), ELD Support, and software optimization.
+*   **🤝 Collaborative Spirit:** Skilled in project management, overseeing daily workflows, and providing technical support for in-house hardware and software systems.
+*   **📈 Results-Oriented:** Focused on improving productivity, ensuring compliance, and driving business success through technology.
+*   **📞 Exceptional Support:** Background in high-volume customer interactions, addressing inquiries, managing accounts, and efficiently resolving technical issues while maintaining excellent satisfaction ratings.
+*   **🌍 Adaptable & Eager:** Quick learner, passionate about leveraging technical and customer-focused skills to contribute to a dynamic organization.
 
 I am confident in my ability to make significant contributions and help achieve your organization's goals.
+
+---
+
+## 📞 Contact Information
+
+*   **Phone:** 7980077310
+*   **Email:** [sharjil.prince@outlook.com](mailto:sharjil.prince@outlook.com)
+*   **Location:** New Alipore, Kolkata 700053
+
+---
 
 ## 📄 View My Resume
 
@@ -95,11 +101,15 @@ For a detailed overview of my qualifications and experience, please view my resu
 
 *(Please ensure the file `Sharjil-Resume-2025 (1).pdf` is in the root of your repository for this link to work correctly.)*
 
+---
+
 ## ✍️ Author
 
 *   **Sharjil Khan**
     *   📧 Email: [sharjil.prince@outlook.com](mailto:sharjil.prince@outlook.com)
     *   (Portfolio will contain links to GitHub/LinkedIn if added to `resumeData`)
+
+---
 
 ## 🙏 Acknowledgements
 
